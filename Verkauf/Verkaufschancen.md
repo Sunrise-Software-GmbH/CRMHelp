@@ -24,11 +24,11 @@ Wird ein Angebot einer Verkaufschance auf *"Gewonnen"* gesetzt, werden alle ande
 Ist die VC verloren, kann die Firma, die den Zuschlag bekommen hat, gekennzeichnet werden. Diese Informationen können bei der Auswertung nützlich sein.
 In der VC können noch zusätzlich Informationen eingegeben werden:
 
-- **Abschluss:** Auswahl aus einer vordefinierten [Liste](README.md) an Begründungen (Beispiel: Preis zu hoch, Funktionsumfang,..).
+- **Abschluss:** Auswahl aus einer vordefinierten [Liste](Readme.md) an Begründungen (Beispiel: Preis zu hoch, Funktionsumfang,..).
 - **Abschlussbegründung:** Es kann ein freier Text mit näherer Begründung eingefügt werden.
 
 **Firma, die den Zuschlag bekommen hat:** in der Liste der Mitbewerber kann die Firma markiert werden, die den Zuschlag bekommen hat.
 Diese Zusatzinformationen können für eine Auswertung der verlorenen VC verwendet werden.
 
 **Belegs Überleitung:**
-Eine **Verkaufschance** kann man direkt über den **Button** *"Angebot erzeugen"* oder über das [**Menü**](README.md) *"Aktivitäten > Verkauf > Angebot"* überleiten in ein **Verkaufs Angebot**. [Siehe Angebote.](README.md) 
+Eine **Verkaufschance** kann man direkt über den **Button** *"Angebot erzeugen"* oder über das [**Menü**](Readme.md) *"Aktivitäten > Verkauf > Angebot"* überleiten in ein **Verkaufs Angebot**. [Siehe Angebote.](Readme.md) 
