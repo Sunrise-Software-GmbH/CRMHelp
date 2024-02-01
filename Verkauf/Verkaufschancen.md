@@ -7,7 +7,7 @@ Die Verkaufschance (VC) ist die Klammer um den gesamten Verkaufsprozess - vom Er
 - **Schulung**
 - **Service**
 
-** Verkaufschance Phasen und Gewichtung in % können hinterlegt werden:**
+**Verkaufschance Phasen und Gewichtung in % können hinterlegt werden:**
 - **Leadphase:** Erstkontakt auf Messe, Webseite oder Telefon; es gibt nur Schätzwerte in den VC Positionen und noch kein Angebot
 - **Präsentationsphase:** Vorort Besuch oder Online Präsentation
 - **Angebotsphase:** Ein oder mehrere Angebote wurde zur VC erstellt und diese fließen als Summe in die VC Bewertung mit ein.
@@ -18,7 +18,7 @@ Die Verkaufschance (VC) ist die Klammer um den gesamten Verkaufsprozess - vom Er
 **Positionen und Angebote:** Die VC Bewertung ist gleich die VC Summe netto. Diese bildet sich aus der Summe der hinterlegten Positionen. Sollte es bereits verknüpfte Angebote zur VC geben bildet sich die Bewertung aus der Summe aller nicht alternativen offenen Angebote. Gibt es verknüpfte Angebote werden diese vorranging zur Bewertung herangezogen
 
 **Verkaufsphasen und Gewichtungen:** Falls in einer VC die Gewichtung oder der Status der Verkaufsphase geändert wird, werden diese beim Speichern an die noch offenen Angebote übernommen.
-Wird ein Angebot einer Verkaufschance auf * *"Gewonnen"* * gesetzt, werden alle anderen noch nicht abgeschlossenen Angebote zu dieser Verkaufschance auf * *"kein Bedarf"* * gesetzt.
+Wird ein Angebot einer Verkaufschance auf *"Gewonnen"* gesetzt, werden alle anderen noch nicht abgeschlossenen Angebote zu dieser Verkaufschance auf *"kein Bedarf"* gesetzt.
 
 **Mitbewerb:** Über den Mitbewerb können Firmen definiert werden, die zu dieser Verkaufschance mit geboten haben. 
 Ist die VC verloren, kann die Firma, die den Zuschlag bekommen hat, gekennzeichnet werden. Diese Informationen können bei der Auswertung nützlich sein.
@@ -31,4 +31,4 @@ In der VC können noch zusätzlich Informationen eingegeben werden:
 Diese Zusatzinformationen können für eine Auswertung der verlorenen VC verwendet werden.
 
 **Belegs Überleitung:**
-Eine **Verkaufschance** kann man direkt über den **Button** * *"Angebot erzeugen"* * oder über das [**Menü**](README.md) * *"Aktivitäten > Verkauf > Angebot"* * überleiten in ein **Verkaufs Angebot**. [Siehe Angebote.](README.md) 
+Eine **Verkaufschance** kann man direkt über den **Button** *"Angebot erzeugen"* oder über das [**Menü**](README.md) *"Aktivitäten > Verkauf > Angebot"* überleiten in ein **Verkaufs Angebot**. [Siehe Angebote.](README.md) 
