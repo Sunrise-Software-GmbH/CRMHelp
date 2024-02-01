@@ -1,2 +1,4 @@
+![Übersicht Verkaufsprozess](/Help_Overview_Verkauf.png)
+
 Im Bereich des Verkaufs wird der gesamte Verkaufsprozess abgebildet. Dieser startet bei Verkaufschancen die es mit oder ohne verknüpfte Angebote geben kann. Aus gewonnenen Angeboten wird dann ein Auftrag erzeugt, der später mit oder ohne Lieferschein fakturiert wird. Im gesamten Ablauf sind wir sehr flexibel, wo in einem Unternehmen der Verkaufsprozess beginnt und endet. Für Unternehmen mit einem langen Vertriebszyklus (Objekt Geschäfte, Bauprojekte,...) empfehlen wir das Verkaufschancen Modul im Kombination mit dem Angebots Modul einzusetzen. Für Unternehmen mit einem kurzen Vertriebzyklus (Ersatzteil Handel ...) ist das Angebots Modul ausreichend.Für Unternehmen die keine eigene Warenwirtschaft oder ERP Lösung haben, sind in unserer SALES Professional oder SALES Enterprise Lizenzen eine sehr gute Alternative. [Siehe Übersicht für Details zu SALES Lizenzen.](https://www.relations-crm.com/)
 
