@@ -9,7 +9,8 @@ nav_order: 10
 
 # Verkaufschancen
 
-Die Verkaufschance (VC) ist die Klammer um den gesamten Verkaufsprozess - vom Erstkontakt bis zum Abschluss und ist als Projekt des Vertriebs zu sehen. Die VC kann angelegt werden, um das Budget des Kunden zu definieren. Ein VC Modul ist für Unternehmen empfehlenswert, wenn diese einen langen Vertriebszyklus haben (mehr als 5 Monate bis zum Verkaufsabschluss). Alle Aktivitäten, wie E-Mails, Besuchsberichte, Aufgaben, Termine, Dokumente und Angebote werden darin abgelegt.
+Die Verkaufschance (VC) ist die Klammer um den gesamten Verkaufsprozess - vom Erstkontakt bis zum Abschluss und ist als Projekt des Vertriebs zu sehen. Die VC kann angelegt werden, um das Budget des Kunden zu definieren. Ein VC Modul ist für Unternehmen empfehlenswert, wenn diese einen langen Vertriebszyklus haben (mehr als 5 Monate bis zum Verkaufsabschluss).  
+Alle Aktivitäten, wie E-Mails, Besuchsberichte, Aufgaben, Termine, Dokumente und Angebote werden darin abgelegt.
 
 **Verkaufschance Typen:** Nach diesen Verkaufschancetypen kann gefiltert werden. Diese können beliebig über die CRM Administration angepasst werden.
 - **Standard**
