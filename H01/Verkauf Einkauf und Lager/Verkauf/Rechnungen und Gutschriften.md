@@ -66,3 +66,7 @@ Für die Module Rechnungen, Gutschriften und Kunden (Debitoren) gibt es die Mög
 
 **Neben den Standard-Funktionen der Belege bietet das Rechnungsmodul noch zusätzliche Funktionen an:**
 - **Export FIBU:** Ist für den angemeldeten Benutzer über die Administration das Recht für diesen Export hinterlegt, dann enthält das [Menü](Menü)<!-- TODO --> *"Senden an - Export"* einen zusätzlichen Menüpunkt *"Export FIBU"*. Diese Funktion bietet einen Dialog für die Auswahl der zu exportierenden Daten an und erzeugt anschließend die für das Finanz-Buchhaltungs-Programm erforderlichen Daten.
+
+## Registrierkassensicherheitsverordnung (RKSV für Österreich)
+
+Die Anwendung der in Österreich 2017 eingeführten RKSV wird in nachfolgendem Link beschrieben: [RKSV Betrieb](https://www.relations-crm.com/documents/Downloads/rksv/Dokumentation%20RKSV%20-%20Betrieb.pdf)
