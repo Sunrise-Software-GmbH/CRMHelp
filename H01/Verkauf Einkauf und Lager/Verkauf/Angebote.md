@@ -26,13 +26,13 @@ Alle Aktivitäten, wie E-Mails, Besuchsberichte, Aufgaben, Termine und Dokumente
 **Mitbewerb:** Über den Mitbewerb können Firmen definiert werden, die zu diesem Angebot auch mitgeboten haben. 
 Ist das Angebot verloren, kann die Firma die den Zuschlag bekommen hat, gekennzeichnet werden. Diese Informationen können bei der Auswertung nützlich sein.
 Im Angebot können noch zusätzliche Informationen eingegeben werden:
-- **Abschluss:** Auswahl aus einer vordefinierten [Liste](./index.md) an Begründungen (Beispiel: Preis zu hoch, Funktionsumfang,..).
+- **Abschluss:** Auswahl aus einer vordefinierten Liste an Begründungen (Beispiel: Preis zu hoch, Funktionsumfang,..).
 - **Abschlussbegründung:** Es kann ein freier Text mit näherer Begründung eingefügt werden.
 
 **Firma, die den Zuschlag bekommen hat:** In der Liste der Mitbewerber kann die Firma markiert werden, die den Zuschlag bekommen hat.
 Diese Zusatzinformationen können für eine Auswertung der verlorenen Projekte verwendet werden.
 
 **Belegs Überleitung:**
-Ein **Angebot** kann man direkt über das [**Menü**](./index.md) *"Aktivität neu > Einkauf > Anfrage oder Bestellung"* überleiten in eine **Einkaufs Anfrage** oder **Bestellung**, um einen weiterführenden Einkaufsprozess einzuleiten. [Siehe Einkauf.](./index.md)
+Ein **Angebot** kann man direkt über das **Menü** *"Aktivität neu > Einkauf > Anfrage oder Bestellung"* überleiten in eine **Einkaufs Anfrage** oder **Bestellung**, um einen weiterführenden Einkaufsprozess einzuleiten. [Siehe Einkauf](Siehe Einkauf). <!-- TODO -->
 
-Ein **Angebot** kann man direkt über den **Button** *"Auftrag erzeugen"* oder über das **Menü** *"Aktivität neu > Verkauf > Auftrag"* überleiten in einen **Verkaufs Auftrag.** [Siehe Aufträge.](./index.md)
+Ein **Angebot** kann man direkt über den **Button** *"Auftrag erzeugen"* oder über das **Menü** *"Aktivität neu > Verkauf > Auftrag"* überleiten in einen **Verkaufs Auftrag.** [Siehe Aufträge](./Aufträge.md).
