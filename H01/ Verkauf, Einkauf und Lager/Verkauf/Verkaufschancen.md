@@ -2,7 +2,7 @@
 title: Verkaufschancen
 has_children: true
 parent: Verkauf
-nav_order: 1
+nav_order: 10
 ---
 
 
