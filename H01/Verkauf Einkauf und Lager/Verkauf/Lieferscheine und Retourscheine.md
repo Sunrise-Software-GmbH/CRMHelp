@@ -8,8 +8,7 @@ nav_order: 40
 # Lieferscheine und Retourscheine
 
 Ein Lieferschein ist ein Dokument für meine Kunden, damit die ausgelieferte Ware (lagergeführte Artikel) oder auch Dienstleistung (nicht lagergeführte Artikel) dokumentiert ist.
-Ein Retourschein wird für die Dokumentation der rückgelieferte Ware (lagergeführte Artikel) verwendet.
-
+Ein Retourschein wird für die Dokumentation der rückgelieferte Ware (lagergeführte Artikel) verwendet.  
 Alle Aktivitäten, wie E-Mails, Besuchsberichte, Aufgaben, Termine und Dokumente, werden darin abgelegt.
 
 **Ware (lagergeführte Artikel):**
