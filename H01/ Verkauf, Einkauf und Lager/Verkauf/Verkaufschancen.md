@@ -1,7 +1,7 @@
 ---
 title: Verkaufschancen
 has_children: true
-parent: Verkauf, Einkauf und Lager
+parent: Verkauf
 nav_order: 1
 ---
 
