@@ -1,5 +1,7 @@
 # Angebote
 
+Ich finde hier müsste man viel mehr über XXY schreiben!!!
+
 Ein Angebot ist die Reaktion auf eine Anfrage eines potentiellen oder vorhanden Kunden. In einem Angebot können Einleitung- und Abschlusstexte mit beliebigen Artikel und Freitext Artikel als Position hinterlegt werden. Die Summe dieser Positionen fließt in die Angebots Summe mit ein. Alle Aktivitäten, wie E-Mails, Besuchsberichte, Aufgaben, Termine und Dokumente werden darin abgelegt.
 
 **Angebot Typen:** Nach diesen Angebotstypen kann gefiltert werden. Diese können beliebig über die CRM Administration angepasst werden.
