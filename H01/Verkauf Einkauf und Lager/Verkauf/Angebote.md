@@ -33,6 +33,6 @@ Im Angebot können noch zusätzliche Informationen eingegeben werden:
 Diese Zusatzinformationen können für eine Auswertung der verlorenen Projekte verwendet werden.
 
 **Belegs Überleitung:**
-Ein **Angebot** kann man direkt über das **Menü** *"Aktivität neu > Einkauf > Anfrage oder Bestellung"* überleiten in eine **Einkaufs Anfrage** oder **Bestellung**, um einen weiterführenden Einkaufsprozess einzuleiten. [Siehe Einkauf](Siehe Einkauf). <!-- TODO -->
+Ein **Angebot** kann man direkt über das **Menü** *"Aktivität neu > Einkauf > Anfrage oder Bestellung"* überleiten in eine **Einkaufs Anfrage** oder **Bestellung**, um einen weiterführenden Einkaufsprozess einzuleiten. [Siehe Einkauf](SieheEinkauf). <!-- TODO -->
 
 Ein **Angebot** kann man direkt über den **Button** *"Auftrag erzeugen"* oder über das **Menü** *"Aktivität neu > Verkauf > Auftrag"* überleiten in einen **Verkaufs Auftrag.** [Siehe Aufträge](./Aufträge.md).
