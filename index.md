@@ -1,7 +1,5 @@
 ---
 title: Sunrise Software CRM Hilfe
-has_children: false
-nav_order: 1
 ---
 
 # Sunrise Software CRM Hilfe
