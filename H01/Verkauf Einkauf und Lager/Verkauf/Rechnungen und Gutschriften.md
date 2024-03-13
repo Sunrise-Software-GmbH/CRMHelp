@@ -5,7 +5,7 @@ grand_parent: Verkauf, Einkauf und Lager
 parent: Verkauf
 nav_order: 50
 ---
-{:toc}
+
 # Rechnungen und Gutschriften
 
 Eine Rechnung ist ein Dokument für meine Kunden, in der die ausgelieferte Ware oder auch Dienstleistung enthalten ist. Eine Gutschrift ist das Storno einer gesamten Rechnung oder nur ein Teil der Positionsmenge in einer Rechnung.
