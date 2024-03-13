@@ -1,3 +1,11 @@
+---
+title: Verkaufschancen
+has_children: true
+parent: Verkauf, Einkauf und Lager
+nav_order: 1
+---
+
+
 # Verkaufschancen
 
 Die Verkaufschance (VC) ist die Klammer um den gesamten Verkaufsprozess - vom Erstkontakt bis zum Abschluss und ist als Projekt des Vertriebs zu sehen. Die VC kann angelegt werden, um das Budget des Kunden zu definieren. Ein VC Modul ist für Unternehmen empfehlenswert, wenn diese einen langen Vertriebszyklus haben (mehr als 5 Monate bis zum Verkaufsabschluss). Alle Aktivitäten, wie E-Mails, Besuchsberichte, Aufgaben, Termine, Dokumente und Angebote werden darin abgelegt.
