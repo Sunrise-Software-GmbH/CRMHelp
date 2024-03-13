@@ -4,7 +4,7 @@ has_children: false
 grand_parent: Verkauf, Einkauf und Lager
 parent: Verkauf
 nav_order: 50
-toc: true
+has_toc: true
 ---
 # Rechnungen und Gutschriften
 
