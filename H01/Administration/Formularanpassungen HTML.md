@@ -1,8 +1,8 @@
 ---
-title: Formular Anpassungen HTML
+title: HTML Formular Designer
 parent: Administration
 ---
 
-# Formular Anpassungen HTML
+# Formular Anpassungen in HTML Code
 
-Einführungstext für Memo
+Einführungstext für Memo um den neuen Formular Designer zu beschreiben.
