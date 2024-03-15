@@ -7,7 +7,7 @@ nav_order: 50
 ---
 
 # Rechnungen und Gutschriften
-{:toc}
+
 
 Eine Rechnung ist ein Dokument für meine Kunden, in der die ausgelieferte Ware oder auch Dienstleistung enthalten ist. Eine Gutschrift ist das Storno einer gesamten Rechnung oder nur ein Teil der Positionsmenge in einer Rechnung.
 
@@ -19,6 +19,7 @@ Es kann eine Gutschrift aus einer Rechnung erzeugt werden oder aus einem Auftrag
 - **Gutschrift**
 
 **Rechnung/Gutschrift Status:**
+
 - **In Bearbeitung:** Der Beleg ist noch in Bearbeitung.
 - **Versendet:** Der Beleg wurde per Brief oder E-Mail versendet.
 - **Abgeschlossen:** Es wurde der Beleg abgeschlossen und der Betrag über "Bezahlt am" ausgebucht.
@@ -39,7 +40,7 @@ Es kann eine Gutschrift aus einem **Auftrag**, über das **Menü** *"Aktivität 
 
 
 ## Elektronischer Rechnungsexport (E-Rechnung für Italien)
-{:toc}
+
 
 Mit 01.01.2019 wurde vom italienischen Finanzamt ein elektronischer Rechnungsablauf definiert. Über das Rechnungsformular im CRM kann aus einer Rechnung eine XML Datei erzeugt werden, die für einen Import im Finanzamt verwendet werden kann. Dazu steht der Button *"Versenden - XML"* zur Verfügung.
 
@@ -52,7 +53,6 @@ Mail-Rechnungsversand (LinkMailInvoice): Eintragung einer gültigen E-Mail Adres
 eInvoicing Empfängercode (RecipientCodeEInvoicing): neben den Standard Feldern wie FN-Nr, UID und Steuernummer ist auch der Empfängercode zu hinterlegen.
 
 ## Schnittstellen Finanzbuchhaltung (Export FIBU) (RZL, BMD, DATEV,...)
-{:toc}
 
 Für die Module Rechnungen, Gutschriften und Kunden (Debitoren) gibt es die Möglichkeit für einen FIBU Export für verschiedene Buchhaltungssysteme wie RZL, BMD oder DATEV.
 
@@ -73,6 +73,5 @@ Für die Module Rechnungen, Gutschriften und Kunden (Debitoren) gibt es die Mög
 - **Export FIBU:** Ist für den angemeldeten Benutzer über die Administration das Recht für diesen Export hinterlegt, dann enthält das [Menü](Menü)<!-- TODO --> *"Senden an - Export"* einen zusätzlichen Menüpunkt *"Export FIBU"*. Diese Funktion bietet einen Dialog für die Auswahl der zu exportierenden Daten an und erzeugt anschließend die für das Finanz-Buchhaltungs-Programm erforderlichen Daten.
 
 ## Registrierkassensicherheitsverordnung (RKSV für Österreich)
-{:toc}
 
 Die Anwendung der in Österreich 2017 eingeführten RKSV wird in nachfolgendem Link beschrieben: [RKSV Betrieb](https://www.relations-crm.com/documents/Downloads/rksv/Dokumentation%20RKSV%20-%20Betrieb.pdf)
