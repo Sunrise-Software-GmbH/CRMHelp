@@ -14,6 +14,7 @@ Eine Rechnung ist ein Dokument für meine Kunden, in der die ausgelieferte Ware 
 Es kann eine Gutschrift aus einer Rechnung erzeugt werden oder aus einem Auftrag. Alle Aktivitäten, wie E-Mails, Besuchsberichte, Aufgaben, Termine und Dokumente werden darin abgelegt.
 
 **Typen:** Nach diesen Typen kann gefiltert werden.
+
 - **Rechnung**
 - **Gutschrift**
 
