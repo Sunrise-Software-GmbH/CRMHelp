@@ -15,8 +15,8 @@ Ab der CRM Version V8 steht der neue HTML Formular Designer zur Verfügung. Dami
 
 ## Bearbeitung des Formulars über die Bedienleiste
 
-- **Liste**: erzeugt ein Liste  bestehend aus Listenelementen, die auf- und zugeklappt werden können.
-- **Listenelement**: erzeugt einen neuen Eintrag in der aktuell selektierten Liste
+- **Liste**: erzeugt eine Liste bestehend aus Listenelementen, die auf- und zugeklappt werden können.
+- **Listenelement**: erzeugt einen neuen Eintrag in der aktuell selektierten Liste bestehend aus der Vorschau und dem editierbaren Elemente im aufgeklappten Bereich.
 - **HTML**: erzeugt ein HTML Element
 
 ## Bearbeitung des Formulars mit dem Layout Designer
