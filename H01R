@@ -1,5 +1,28 @@
-<html>
-  <head>
-  <meta http-equiv="refresh" content="0; URL=https://sunrise-software-gmbh.github.io/CRMHelp/H01/Administration/Anpassung%20der%20Listen-Inhalte.html" />
-    </head>
-    <body>eintrag2</body></html>
+<!DOCTYPE html>
+<html lang="de">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Redirect zur passenden Hilfe-Version</title>
+<script>
+  window.onload = function() {
+    // Funktion zum Auslesen der URL-Parameter
+    function getUrlParameter(name) {
+      name = name.replace(/[\[]/, '\\[').replace(/[\]]/, '\\]');
+      var regex = new RegExp('[\\?&]' + name + '=([^&#]*)');
+      var results = regex.exec(location.search);
+      return results === null ? '' : decodeURIComponent(results[1].replace(/\+/g, ' '));
+    };
+
+    // Den Wert des Parameters "redirect" auslesen
+    var redirectValue = getUrlParameter('redirect');
+
+    // Überprüfen, ob der Parameter "redirect" gesetzt ist und basierend darauf weiterleiten
+    window.location.href = "https://sunrise-software-gmbh.github.io/CRMHelp/CUR/" + redirectValue; // Zielseite 1
+  };
+</script>
+</head>
+<body>
+<p>Warte auf den dynamischen Redirect...</p>
+</body>
+</html>
