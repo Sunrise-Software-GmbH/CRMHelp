@@ -6,6 +6,8 @@ parent: Einkauf
 nav_order: 30
 ---
 
+## E-Lieferscheine und E-Retourscheine
+
 Ein E-Lieferschein dient zur Dokumentierung der gelieferten Ware (lagergeführte Artikel) oder auch Dienstleistung (nicht lagergeführte Artikel).
 Ein E-Retourschein dokumentiert die zurückgelieferte Ware (lagergeführte Artikel).
 Alle Aktivitäten wie E-Mails, Besuchsberichte, Aufgaben, Termine und Dokumente werden darin abgelegt.

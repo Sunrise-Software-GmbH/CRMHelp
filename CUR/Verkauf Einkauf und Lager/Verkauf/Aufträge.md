@@ -5,7 +5,8 @@ grand_parent: Verkauf, Einkauf und Lager
 parent: Verkauf
 nav_order: 30
 ---
-# Aufträge
+
+## Aufträge
 
 Ein Auftrag gilt im CRM als eine Bestellung eines Kunden. Dieses kann ein angenommenes Angebot sein oder eine Bestellung ohne Angebot. Wenn im CRM bereits ein Angebot für den Kunden erstellt wurde, kann ein Auftrag aus dem Angebot per Button „Auftrag erstellen" erzeugt werden. Im Auftrag können die kopierten Angebots Eigenschaften und Positionen beliebig verändert werden. Der Auftrag ist die Basis der weiteren Belege wie Lieferschein, Rechnung und Gutschrift. **Einen Lieferschein, eine Rechnung oder eine Gutschrift kann man ohne Auftrag nicht erstellen!**  
 Alle Aktivitäten, wie E-Mails, Besuchsberichte, Aufgaben, Termine, Dokumente, Lieferschein und Rechnungen werden darin abgelegt.

@@ -6,6 +6,8 @@ parent: Lager
 nav_order: 20
 ---
 
+## Inventur
+
 Eine Inventur wird durchgeführt, um die in der Datenbank hinterlegte Lagermenge mit dem tatsächlichen Lagerbestand zu korrigieren.
 
 **Inventurtyp:**

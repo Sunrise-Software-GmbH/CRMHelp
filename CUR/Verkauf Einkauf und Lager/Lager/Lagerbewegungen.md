@@ -6,6 +6,8 @@ parent: Lager
 nav_order: 10
 ---
 
+## Lagerbewegungen
+
 Lagerbewegungen finden ausschließlich durch Lieferscheine, E-Lieferscheine, Retourscheine oder E-Retourscheine statt. Der Lagerbestand kann mittels Inventur auf den tatsächlichen Bestand korrigiert werden, um damit einen möglichen Schwund zu berücksichtigen. Neben einer jährlichen Inventur können Lagerbewegungen, die nicht durch einen Einkauf, Verkauf oder durch Retourwaren entstehen, auch manuell eingetragen werden.
 
 **Lagerbewegung Typ:**

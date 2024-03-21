@@ -6,18 +6,19 @@ parent: Verkauf
 nav_order: 10
 ---
 
-
-# Verkaufschancen
+## Verkaufschancen
 
 Die Verkaufschance (VC) ist die Klammer um den gesamten Verkaufsprozess - vom Erstkontakt bis zum Abschluss und ist als Projekt des Vertriebs zu sehen. Die VC kann angelegt werden, um das Budget des Kunden zu definieren. Ein VC Modul ist für Unternehmen empfehlenswert, wenn diese einen langen Vertriebszyklus haben (mehr als 5 Monate bis zum Verkaufsabschluss).  
 Alle Aktivitäten, wie E-Mails, Besuchsberichte, Aufgaben, Termine, Dokumente und Angebote werden darin abgelegt.
 
 **Verkaufschance Typen:** Nach diesen Verkaufschancetypen kann gefiltert werden. Diese können beliebig über die CRM Administration angepasst werden.
+
 - **Standard**
 - **Schulung**
 - **Service**
 
 **Verkaufschance Phasen und Gewichtung in % können hinterlegt werden:**
+
 - **Leadphase:** Erstkontakt auf Messe, Webseite oder Telefon; es gibt nur Schätzwerte in den VC Positionen und noch kein Angebot
 - **Präsentationsphase:** Vorort Besuch oder Online Präsentation
 - **Angebotsphase:** Ein oder mehrere Angebote wurde zur VC erstellt und diese fließen als Summe in die VC Bewertung mit ein.
@@ -41,4 +42,4 @@ In der VC können noch zusätzlich Informationen eingegeben werden:
 Diese Zusatzinformationen können für eine Auswertung der verlorenen VC verwendet werden.
 
 **Belegs Überleitung:**
-Eine **Verkaufschance** kann man direkt über den **Button** *"Angebot erzeugen"* oder über das **Menü** *"Aktivitäten > Verkauf > Angebot"* überleiten in ein **Verkaufs Angebot**. [Siehe Angebote.](./Angebote.md) 
+Eine **Verkaufschance** kann man direkt über den **Button** *"Angebot erzeugen"* oder über das **Menü** *"Aktivitäten > Verkauf > Angebot"* überleiten in ein **Verkaufs Angebot**. [Siehe Angebote.](./Angebote.md)

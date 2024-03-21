@@ -6,6 +6,8 @@ parent: Einkauf
 nav_order: 40
 ---
 
+## E-Rechnungen und E-Gutschriften
+
 Eine E-Rechnung dokumentiert die gelieferte Ware oder auch Dienstleistung.
 Eine E-Gutschrift ist das Storno einer gesamten E-Rechnung oder nur ein Teil der Positionsmenge in einer E-Rechnung.
 
