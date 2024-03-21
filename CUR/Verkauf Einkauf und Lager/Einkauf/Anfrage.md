@@ -6,8 +6,6 @@ parent: Einkauf
 nav_order: 10
 ---
 
-# Anfrage
-
 Eine Anfrage dient zur Einholung von Informationen zu einer Ware (Preis, Lieferkonditionen) von einem oder mehreren Lieferanten. Man kann diese manuell erstellen oder von einem Verkaufs Angebot oder Auftrag überleiten. In einer Anfrage können Einleitung- und Abschlusstexte mit beliebigen Artikel und Freitext Artikel als Position hinterlegt werden. Alle Aktivitäten, wie E-Mails, Besuchsberichte, Aufgaben, Termine und Dokumente werden darin abgelegt.
 
 **Einkauf Typen:**

@@ -6,8 +6,6 @@ parent: Einkauf
 nav_order: 20
 ---
 
-# Bestellungen
-
 Die Bestellung ist die Basis der weiteren Belege, wie E-Lieferschein, E-Rechnung und E-Gutschrift für Lager, Menge, Rabatt und Preis. Eine Bestellung kann durch eine Anfrage übergeleitet oder manuell erstellt werden. Man kann diese auch direkt aus einem Verkaufs Angebot oder Auftrags Beleg überleiten.
 
 **Bestellung Status:**
