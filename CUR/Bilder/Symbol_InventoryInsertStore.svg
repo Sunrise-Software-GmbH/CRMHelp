@@ -1,0 +1,79 @@
+﻿<?xml version='1.0' encoding='UTF-8'?>
+<svg viewBox="10.7774 59.7799 32.0001 32.0001" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"
+   width="16"
+   height="16"
+>
+  <defs tag="staticElement_id48731095">
+    <path d="M516.13, 261.94C516.13, 286.68 496.04, 306.77 471.29, 306.77C446.54, 306.77 426.45, 286.68 426.45, 261.94C426.45, 237.19 446.54, 217.1 471.29, 217.1C496.04, 217.1 516.13, 237.19 516.13, 261.94z" fill="#727272" fill-opacity="1" id="d5gzOQNvh" class="Black" />
+    <path d="M364.84, 261.94C364.84, 286.68 344.75, 306.77 320, 306.77C295.25, 306.77 275.16, 286.68 275.16, 261.94C275.16, 237.19 295.25, 217.1 320, 217.1C344.75, 217.1 364.84, 237.19 364.84, 261.94z" fill="#727272" fill-opacity="1" id="c1cjnE9cK8" class="Black" />
+    <path d="M211.61, 261.94C211.61, 286.68 191.52, 306.77 166.77, 306.77C142.03, 306.77 121.94, 286.68 121.94, 261.94C121.94, 237.19 142.03, 217.1 166.77, 217.1C191.52, 217.1 211.61, 237.19 211.61, 261.94z" fill="#727272" fill-opacity="1" id="biq3K6YU3" class="Black" />
+    <path d="M71.61, 162.26L568.39, 162.26L568.39, 361.61L71.61, 361.61L71.61, 162.26z" fill="#727272" fill-opacity="1" id="a2RyfBO2ls" class="Black" />
+  </defs>
+  <g transform="translate(-2.1903, -0.7685)">
+    <g transform="matrix(0.5, 0, 0, 0.5, 0, 0) matrix(0.0456, 0, 0, 0.0456, 1.4572, -5.5201)">
+      <g>
+        <g>
+          <g fill="#727272" opacity="1" fill-opacity="1" class="Black">
+            <path d="M516.13, 261.94C516.13, 286.68 496.04, 306.77 471.29, 306.77C446.54, 306.77 426.45, 286.68 426.45, 261.94C426.45, 237.19 446.54, 217.1 471.29, 217.1C496.04, 217.1 516.13, 237.19 516.13, 261.94z" fill="#727272" fill-opacity="1" class="Black" />
+          </g>
+        </g>
+      </g>
+    </g>
+  </g>
+  <g transform="translate(-2.1903, -0.7685)">
+    <g transform="matrix(0.5, 0, 0, 0.5, 0, 0) matrix(0.0456, 0, 0, 0.0456, 1.4572, -5.5201)">
+      <g>
+        <g>
+          <g fill="#727272" opacity="1" fill-opacity="1" class="Black">
+            <path d="M364.84, 261.94C364.84, 286.68 344.75, 306.77 320, 306.77C295.25, 306.77 275.16, 286.68 275.16, 261.94C275.16, 237.19 295.25, 217.1 320, 217.1C344.75, 217.1 364.84, 237.19 364.84, 261.94z" fill="#727272" fill-opacity="1" class="Black" />
+          </g>
+        </g>
+      </g>
+    </g>
+  </g>
+  <g transform="translate(-2.1903, -0.7685)">
+    <g transform="matrix(0.5, 0, 0, 0.5, 0, 0) matrix(0.0456, 0, 0, 0.0456, 1.4572, -5.5201)">
+      <g>
+        <g>
+          <g fill="#727272" opacity="1" fill-opacity="1" class="Black">
+            <path d="M211.61, 261.94C211.61, 286.68 191.52, 306.77 166.77, 306.77C142.03, 306.77 121.94, 286.68 121.94, 261.94C121.94, 237.19 142.03, 217.1 166.77, 217.1C191.52, 217.1 211.61, 237.19 211.61, 261.94z" fill="#727272" fill-opacity="1" class="Black" />
+          </g>
+        </g>
+      </g>
+    </g>
+  </g>
+  <g transform="translate(-2.3613, -0.9395)">
+    <g transform="matrix(0.5, 0, 0, 0.5, 0, 0) matrix(0.0456, 0, 0, 0.0456, 1.4572, -5.5201)">
+      <g>
+        <g>
+          <g>
+            <g fill="#727272" opacity="1" fill-opacity="0" class="Black" stroke="#000000" stroke-width="15px" stroke-opacity="1">
+              <path d="M71.61, 162.26L568.39, 162.26L568.39, 361.61L71.61, 361.61L71.61, 162.26z" fill="#727272" fill-opacity="1" class="Black" />
+            </g>
+          </g>
+        </g>
+      </g>
+    </g>
+  </g>
+  <g id="Layer_1" transform="translate(10.7774, 59.7799)" style="enable-background:new 0 0 32 32">
+    <g transform="matrix(2, 0, 0, 2, 0, 0)">
+      <g transform="matrix(0.5, 0, 0, 0.5, 0, 0)">
+        <path d="M12, 24L12, 28L5, 28C4.4, 28 4, 27.6 4, 27L4, 5C4, 4.4 4.4, 4 5, 4L8, 4L8, 24L12, 24zM25, 4L22, 4L22, 10L26, 10L26, 4.8C26, 4.4 25.6, 4 25, 4z" fill="#FFB115" class="Yellow" />
+      </g>
+    </g>
+  </g>
+  <g id="Layer_1" transform="translate(10.7774, 59.7799)" style="enable-background:new 0 0 32 32">
+    <g transform="matrix(2, 0, 0, 2, 0, 0)">
+      <g transform="matrix(0.5, 0, 0, 0.5, 0, 0)">
+        <path d="M27, 12L15, 12C14.4, 12 14, 12.4 14, 13L14, 29C14, 29.6 14.4, 30 15, 30L27, 30C27.6, 30 28, 29.6 28, 29L28, 13C28, 12.4 27.6, 12 27, 12zM26, 28L16, 28L16, 14L26, 14L26, 28zM24, 20L18, 20L18, 18L24, 18L24, 20zM24, 24L18, 24L18, 22L24, 22L24, 24z" fill="#727272" class="Black" />
+      </g>
+    </g>
+  </g>
+  <g id="Layer_1" transform="translate(10.7774, 59.7799)" style="enable-background:new 0 0 32 32">
+    <g transform="matrix(2, 0, 0, 2, 0, 0)">
+      <g transform="matrix(0.5, 0, 0, 0.5, 0, 0)">
+        <path d="M18, 4L18, 3C18, 2.4 17.6, 2 17, 2L13, 2C12.4, 2 12, 2.4 12, 3L12, 4L10, 4L10, 7C10, 7.6 10.4, 8 11, 8L19, 8C19.6, 8 20, 7.6 20, 7L20, 4L18, 4z" fill="#727272" class="Black" />
+      </g>
+    </g>
+  </g>
+</svg>

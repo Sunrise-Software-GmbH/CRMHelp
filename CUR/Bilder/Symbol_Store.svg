@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   viewBox="0 0 32 32"
+   width="16"
+   height="16"
+   version="1.1"
+   id="svg36927"
+   sodipodi:docname="Store.svg"
+   inkscape:version="0.92.4 (5da689c313, 2019-01-14)">
+  <metadata
+     id="metadata36933">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs36931" />
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1920"
+     inkscape:window-height="1137"
+     id="namedview36929"
+     showgrid="false"
+     inkscape:zoom="7.375"
+     inkscape:cx="16"
+     inkscape:cy="16"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg36927" />
+  <g
+     transform="translate(0, 0)"
+     id="g36895">
+    <g
+       transform="matrix(1.3333, 0, 0, 1.3333, 0, 0)"
+       id="g36893">
+      <g
+         id="Layer_1"
+         transform="translate(-4, -4)"
+         style="enable-background:new 0 0 32 32">
+        <g
+           id="Sales">
+          <circle
+             cx="23"
+             cy="25"
+             r="3"
+             fill="#727272"
+             class="Black"
+             id="circle36889" />
+        </g>
+      </g>
+    </g>
+  </g>
+  <g
+     transform="translate(0, 0)"
+     id="g36905">
+    <g
+       transform="matrix(1.3333, 0, 0, 1.3333, 0, 0)"
+       id="g36903">
+      <g
+         id="g36901"
+         transform="translate(-4, -4)"
+         style="enable-background:new 0 0 32 32">
+        <g
+           id="g36899">
+          <polygon
+             points="10,18 10,10 10,8 4,8 4,10 8,10 8,20 28,20 28,18  "
+             fill="#727272"
+             class="Black"
+             id="polygon36897" />
+        </g>
+      </g>
+    </g>
+  </g>
+  <g
+     id="g36915"
+     style="opacity:0.6">
+    <g
+       transform="scale(1.3333)"
+       id="g36913"
+       style="">
+      <g
+         id="g36911"
+         transform="translate(-4,-4)"
+         style="">
+        <g
+           id="g36909"
+           style="">
+          <path
+             d="m 13,16 h 12 c 0.6,0 1,-0.5 1,-1 V 5 C 26,4.5 25.6,4 25,4 H 13 c -0.6,0 -1,0.5 -1,1 v 10 c 0,0.5 0.4,1 1,1 z M 20,6 h 4 v 4 h -4 z"
+             class="Black"
+             id="path36907"
+             inkscape:connector-curvature="0"
+             style="fill:#727272" />
+        </g>
+      </g>
+    </g>
+  </g>
+  <g
+     transform="translate(0, 0)"
+     id="g36925">
+    <g
+       transform="matrix(1.3333, 0, 0, 1.3333, 0, 0)"
+       id="g36923">
+      <g
+         id="g36921"
+         transform="translate(-4, -4)"
+         style="enable-background:new 0 0 32 32">
+        <g
+           id="g36919">
+          <circle
+             cx="13"
+             cy="25"
+             r="3"
+             fill="#727272"
+             class="Black"
+             id="circle36917" />
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>
