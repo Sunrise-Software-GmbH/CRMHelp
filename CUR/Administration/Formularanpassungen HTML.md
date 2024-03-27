@@ -39,35 +39,35 @@ Um im HTML Code einen Button für die Ausführung einer Funktion zu definieren m
       <img class="prev_image_small prev_image_color" id="C_Btn_MyFunction" src="ImageMyFunction" title="Info My Function" />
     </div>
 
-In custom Code des entsprechenden Formulars muss die Funktion ***CreateHTMLFunctionNames*** überschrieben werden, um die Funktion anzumelden. Über den Funktions-Paramter wird die auszuführende Funktion angegeben.
+Im custom Code des entsprechenden Formulars muss die Funktion ***CreateHTMLFunctionNames*** überschrieben werden, um über die Methode *AddFunction* die Funktion anzumelden. Über den Funktions-Paramter wird die auszuführende Funktion angegeben.
 
     public override void CreateHTMLFunctionNames()
     {
       base.CreateHTMLFunctionNames();
 
-      m_formDesignXML.AddFunction("C_Btn_MyFunction", "Beschrfeibung der Funktion", CallHTMLFunction_C_Btn_MyFunction);
+      m_formDesignXML.AddFunction("C_Btn_MyFunction", "Beschreibung der Funktion", C_Btn_MyFunction);
     }
 
-Diese Funktion wird beim Click auf das HTML Element aufgerufen. Der Parameter *strElementID* enthält den ID des angeklickten Element (hier *C_Btn_MyFunction*) und kann verwendet werden, um über die Funktion verschiedene Buttons zu behandeln.
+Diese Funktion wird beim Click auf das HTML Element aufgerufen. Der Parameter *strElementID* enthält dabei den ID des angeklickten Elements (hier *C_Btn_MyFunction*) und kann verwendet werden, um über die Funktion verschiedene Buttons zu behandeln.
 
-    private bool CallHTMLFunction_C_Btn_MyFunction(string strElementId)
+    private bool C_Btn_MyFunction(string strElementId)
     {
       // auszuführender Code
     }
 
 ## Mehrsprachiger Text
 
-Um einen darzustellenden Text in den unterschiedlichen Sprachen darzustellen kann dieser mit dem **@** Zeichen beginnen. Damit wird er als Schlüsselwort erkannt und kann über die **"Übersetzungstexte"** in die jeweilige Sprache übersetzt werden.
+Um einen statischen Text in den unterschiedlichen Sprachen darzustellen kann dieser mit dem **@** Zeichen beginnen. Damit wird er als Schlüsselwort erkannt und kann über das Modul **"Übersetzungstexte"** in die jeweilige Sprache übersetzt werden.
 
     <div>@C_MyText</div>
 
-Mit folgenden Einträgen im Modul Übersetzungstexte für de
+Mit folgenden Einträgen im Modul **Übersetzungstexte** für Deutsch
 
 > Sprache=de  
 > Schlüssel=C_MyText  
 > Text=Mein Text
 
-und en
+und Englisch
 
 > Sprache=en  
 > Schlüssel=C_MyText  
