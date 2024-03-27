@@ -30,3 +30,45 @@ Zum jeweils selektierten Listen oder HTML Element stehen folgende Bereiche zur V
 - **HTML**: enthält die HTML Tags zum Element
 - **CSS**: enthält die Styles zum Element
 - **CSS Global**: enthält die CSS Styles, die für alle Formulare und Elemente zur Verfügung stehen. ACHTUNG: eine Änderung dieses Inhalts ändert die Darstellung in allen Formularen.
+
+## Einfügen eines Buttons zur Ausführung einer Funktion
+
+Um im HTML Code einen Button für die Ausführung einer Funktion zu definieren muss das jeweilige HTML Tag mit dem ID der auszuführenden Funktion gekennzeichnet werden (hier *C_Btn_MyFunction*)
+
+    <div class="edit_button prev_link" id="C_Btn_MyFunction">
+      <img class="prev_image_small prev_image_color" id="C_Btn_MyFunction" src="ImageMyFunction" title="Info My Function" />
+    </div>
+
+In custom Code des entsprechenden Formulars muss die Funktion ***CreateHTMLFunctionNames*** überschrieben werden, um die Funktion anzumelden. Über den Funktions-Paramter wird die auszuführende Funktion angegeben.
+
+    public override void CreateHTMLFunctionNames()
+    {
+      base.CreateHTMLFunctionNames();
+
+      m_formDesignXML.AddFunction("C_Btn_MyFunction", "Beschrfeibung der Funktion", CallHTMLFunction_C_Btn_MyFunction);
+    }
+
+Diese Funktion wird beim Click auf das HTML Element aufgerufen. Der Parameter *strElementID* enthält den ID des angeklickten Element (hier *C_Btn_MyFunction*) und kann verwendet werden, um über die Funktion verschiedene Buttons zu behandeln.
+
+    private bool CallHTMLFunction_C_Btn_MyFunction(string strElementId)
+    {
+      // auszuführender Code
+    }
+
+## Mehrsprachiger Text
+
+Um einen darzustellenden Text in den unterschiedlichen Sprachen darzustellen kann dieser mit dem **@** Zeichen beginnen. Damit wird er als Schlüsselwort erkannt und kann über die **"Übersetzungstexte"** in die jeweilige Sprache übersetzt werden.
+
+    <div>@C_MyText</div>
+
+Mit folgenden Einträgen im Modul Übersetzungstexte für de
+
+> Sprache=de  
+> Schlüssel=C_MyText  
+> Text=Mein Text
+
+und en
+
+> Sprache=en  
+> Schlüssel=C_MyText  
+> Text=My Text  
