@@ -77,7 +77,7 @@ und Englisch
 
 Im Vorschau Bereich stehen folgende Schlüsselwörter zur Verfügung:
 
-- **Expanded**: Damit kann festgestellt werden, ob der jeweilige Bereich aufgeklappt ist.  
+- **Expanded**: damit kann festgestellt werden, ob der jeweilige Bereich aufgeklappt ist.  
 *Beispiel*: Der Button für die Eingabe der Kategorien soll nur dann sichtbar sein, wenn der aktuelle Bereich aufgeklappt ist:
 
         <span dx-class="{Expanded:prev_button, prev_hidden}" ID="Btn_CategoriesSel">
@@ -88,3 +88,19 @@ Im Vorschau Bereich stehen folgende Schlüsselwörter zur Verfügung:
 *Beispiel*: dass Gruppensymbol wird rot eingefärbt, wenn Pflichtfelder vorhanden sind:
 
         <img dx-class="{HasObligateProperties:prev_obligate, prev_image}" src="Contact" />
+
+- **IsEmpty("Eigenschaftsname")**: um in der Vorschau nur einen belegten Wert anzuzeigen kann über dieses Makro festgestellt werden, ob eine Eigenschaft mit einem Wert belegt ist.
+*Beispiel*: in der Vorschau soll nur eine belegte Telefonnummer angezeigt werden:
+
+       <div class="prev_description" dx-class="{IsEmpty(Phone): prev_hidden}">
+          <a class="prev_link" id="Btn_Phone">${Phone}</a>
+        </div>
+
+- **Format("Eigenschaft")**: um einen Wert (Zahl oder Datum) in dem zur Eigenschaft definierten Format anzuzeigen, kann die Eigenschaft mit der Format Funktion dargestellt werden.  
+*Beispiel*: das "*Gültig bis*" Datum soll formatiert angezeigt werden
+
+        <span>${Format(DateValid)}</span>
+
+    alternativ kann das Format für den Wert auch im HTML angepasst werden
+
+        <span>${DateValid: dd. MMM. yyyy}</span>
