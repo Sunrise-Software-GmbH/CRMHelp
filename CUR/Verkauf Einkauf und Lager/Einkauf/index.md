@@ -7,7 +7,7 @@ nav_order: 20
 
 ## Einkauf
 
-![Übersichtsdiagramm](../../Bilder/Overview_Einkauf.png)
+![Übersichtsdiagramm](../Pictures/Overview_Einkauf.png)
 
 Im Bereich des Einkaufs werden Artikel bei Lieferanten angefragt und bestellt. Für das Lager werden Wareneingänge mittels eines Einkaufslieferschein gebucht. Zur Rechnungskontrolle kann man auch die E-Rechnungen zur jeweiligen Bestellung anlegen.
 

@@ -7,7 +7,7 @@ nav_order: 30
 
 ## Lager
 
-![Übersichtsdiagramm](../../Bilder/Overview_Lager.png)
+![Übersichtsdiagramm](../Pictures/Overview_Lager.png)
 
 Das Lager wird bei lagergeführten Artikeln durch die Einkaufs- und Verkaufslieferscheine geführt. Es können dabei mehrere Lager hinterlegt werden. Bei der Inventur kann der Lagerbestand mit dem tatsächlichen Bestand korrigiert werden. Ein detailierten Überblick gibt einem das Lagerbewegungs Modul. Hier sieht man alle Zu- und Abgänge zu einem Lager und Artikel.
 

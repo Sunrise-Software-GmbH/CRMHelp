@@ -6,7 +6,7 @@ nav_order: 10
 
 # Verkauf, Einkauf und Lager
 
-![Übersichtsdiagramm](../Bilder/Overview_VerkaufEinkaufLager.png)
+![Übersichtsdiagramm](./Pictures/Overview_VerkaufEinkaufLager.png)
 
 ## Stammdaten
 

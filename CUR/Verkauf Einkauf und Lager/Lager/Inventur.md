@@ -18,11 +18,11 @@ Eine Inventur wird durchgeführt, um die in der Datenbank hinterlegte Lagermenge
 
 Über folgende Möglichkeiten können die Artikel in die Inventur übernommen werden:
 
-- ![Lager](../../Bilder/Symbol_Store.svg)...**Gesamten Lagerstand übernehmen:** Es werden alle in den verschiedenen Lagern befindlichen Artikel in die Inventur übernommen. Dabei werden auch die jeweiligen Ausprägungen eines Artikels (zum Beispiel die Länge) berücksichtigt.
-- ![Lager](../../Bilder/Symbol_InventoryInsertStore.svg )...**Lagerstand des Artikels einfügen:** Eines oder mehrerer Artikel werden nach Auswahl in der Inventur aufgenommen. Auch hier werden die verschiedenen Ausprägungen und Lager berücksichtigt.
-- ![Lager](../../Bilder/Symbol_Article.svg)...**Artikel neu:** Nach Auswahl eines oder mehrerer Artikel und eines Lagers werden diese in die Inventur übernommen. Vorzugsweise handelt es sich dabei um Artikel, die noch nicht im Lager sind, oder deren Ausprägung noch nicht im Lager vorhanden ist.
+- ![Lager](../../Pictures/Symbol_Store.svg)...**Gesamten Lagerstand übernehmen:** Es werden alle in den verschiedenen Lagern befindlichen Artikel in die Inventur übernommen. Dabei werden auch die jeweiligen Ausprägungen eines Artikels (zum Beispiel die Länge) berücksichtigt.
+- ![Lager](../../Pictures/Symbol_InventoryInsertStore.svg )...**Lagerstand des Artikels einfügen:** Eines oder mehrerer Artikel werden nach Auswahl in der Inventur aufgenommen. Auch hier werden die verschiedenen Ausprägungen und Lager berücksichtigt.
+- ![Lager](../../Pictures/Symbol_Article.svg)...**Artikel neu:** Nach Auswahl eines oder mehrerer Artikel und eines Lagers werden diese in die Inventur übernommen. Vorzugsweise handelt es sich dabei um Artikel, die noch nicht im Lager sind, oder deren Ausprägung noch nicht im Lager vorhanden ist.
 Diese neu eingefügten Zeilen werden in Fettschrift dargestellt, da die Eingabe einer Ausprägung notwendig sein kann. Befindet sich der jeweilige Artikel bereits im ausgewählten Lager, dann wird dieser mit seinen Ausprägungen eingefügt.
-- ![Lager](../../Bilder/Symbol_Copy.svg)...**Position kopieren**: die markierte Zeile wird kopiert, um zum Beispiel den Artikel mit einer anderen dynamischen Ausprägung in der Inventur aufzunehmen.
+- ![Lager](../../Pictures/Symbol_Copy.svg)...**Position kopieren**: die markierte Zeile wird kopiert, um zum Beispiel den Artikel mit einer anderen dynamischen Ausprägung in der Inventur aufzunehmen.
 
 Beim Einfügen der Artikel in die Inventur bleibt die Inventurmenge leer. Diese sollte vom Benutzer eingetragen werden. Entspricht die Inventurmenge der aktuellen Lagermenge kann über die Funktion *"Lagermenge kopieren"* der aktuelle Lagerstand übernommen werden. Dabei werden die Werte nur in den Zeilen kopiert, in denen noch keine Inventur-Menge eingegeben wurde. Bereits vorgenommene Eingaben bleiben erhalten.
 
