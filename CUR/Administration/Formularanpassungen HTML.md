@@ -9,9 +9,7 @@ Ab der CRM Version V8 steht der neue HTML Formular Designer zur Verfügung. Dami
 
 ## Start des Formular Designers
 
-Über das Kontext-Menü eines selektierten Elements (zum Beispiel Kontakt) kann der Menüpunkt **"Kontakt HTML Layout bearbeiten"** ausgewählt werden. Dieser startet den Formular Designer und aktiviert das Formular Layout des selektierten Elements (Kontaktes) für die weitere Bearbeitung.
-
-![Start Formular Designer für Kontakt](Bilder/HTMLDesignerStart.png)
+In der Listenansicht eines Moduls kann über das Kontext-Menü eines selektierten Elements (zum Beispiel Kontakt) der Menüpunkt **"Kontakt HTML Layout bearbeiten"** ausgewählt werden. Dieser startet den Formular Designer und aktiviert das Formular Layout des selektierten Elements (Kontaktes) für die weitere Bearbeitung.
 
 ## Bearbeitung des Formulars über die Bedienleiste
 
@@ -72,3 +70,21 @@ und Englisch
 > Sprache=en  
 > Schlüssel=C_MyText  
 > Text=My Text  
+
+## Spezielle Schlüsselwörter
+
+### Vorschau Bereich
+
+Im Vorschau Bereich stehen folgende Schlüsselwörter zur Verfügung:
+
+- **Expanded**: Damit kann festgestellt werden, ob der jeweilige Bereich aufgeklappt ist.  
+*Beispiel*: Der Button für die Eingabe der Kategorien soll nur dann sichtbar sein, wenn der aktuelle Bereich aufgeklappt ist:
+
+        <span dx-class="{Expanded:prev_button, prev_hidden}" ID="Btn_CategoriesSel">
+          ...
+        </span>
+
+- **HasObligateProperties**: stellt fest, ob im Aufklapp-Bereich Pflichtfelder vorhanden sind, auch wenn dieser aktuell zugeklappt ist. Damit kann in einer zugeklappten Vorschau auf die Pflichtfelder in diesem Bereich hingewiesen werden.  
+*Beispiel*: dass Gruppensymbol wird rot eingefärbt, wenn Pflichtfelder vorhanden sind:
+
+        <img dx-class="{HasObligateProperties:prev_obligate, prev_image}" src="Contact" />
